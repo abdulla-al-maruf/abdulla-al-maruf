@@ -1,65 +1,118 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulla-al-maruf/abdulla-al-maruf/main/assets/banner.png" alt="WordPress | Hosting | DNS | Email | Marketing Tech" width="100%" />
+<!-- Modern 2025 GitHub Profile README Design -->
+
+<p align="center" style="padding: 40px 0;">
+  <a href="https://www.upwork.com/freelancers/abdullaalmarufshahin" target="_blank">
+    <img src="https://raw.githubusercontent.com/abdulla-al-maruf/abdulla-al-maruf/refs/heads/main/abdulla-upwork.png"
+         alt="Upwork Banner"
+         width="600"
+         style="border-radius: 32px; box-shadow: 0 4px 24px rgba(0,0,0,0.15); margin-bottom: 16px;" />
+  </a>
 </p>
 
-<h1 align="center">Hi, I'm Abdulla Al Maruf Shahin 👋</h1>
-<p align="center"><b>WordPress | Hosting | DNS | Email | GoHighLevel | Marketing Tech</b></p>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/abdullaalmarufshahin" target="_blank">
+    <img src="https://img.shields.io/badge/-Upwork%20Profile-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
+  </a>
+</p>
+
+<h1 align="center" style="font-size:2.8rem; font-weight:800; margin-top:0;">
+  👋 Hi, I'm Abdulla Al Maruf
+</h1>
+<h3 align="center" style="font-size:1.5rem; font-weight:500;">WordPress Architect | Hosting & DNS Specialist | GHL & Marketing Innovator</h3>
+
+---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="270">
+      <img src="https://img.icons8.com/color/96/000000/wordpress.png" width="48" />
+      <br><strong>WordPress</strong><br>Development & Customization
+    </td>
+    <td align="center" width="270">
+      <img src="https://img.icons8.com/color/96/000000/database.png" width="48" />
+      <br><strong>Hosting & DNS</strong><br>Deployment, Migration, Security
+    </td>
+    <td align="center" width="270">
+      <img src="https://img.icons8.com/color/96/000000/email.png" width="48" />
+      <br><strong>Email & CRM</strong><br>GHL, Automation, Funnels
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a web technology specialist with years of hands-on experience in:
+💡 I build **fast, secure, high-converting websites** for businesses and entrepreneurs.  
+🧑‍💻 From hosting, domains, and DNS to advanced marketing automation, I deliver complete digital solutions.
 
-- <b>WordPress Development</b>: setup, customization, troubleshooting, speed & security
-- <b>Hosting & Server Management</b>: cPanel, Plesk, VPS/cloud, SSL, migrations
-- <b>DNS & Domains</b>: registration, transfer, advanced DNS records (A, CNAME, MX, TXT, SPF, DKIM)
-- <b>Email Solutions</b>: business email setup (Gmail, Outlook, Zoho), deliverability, spam protection
-- <b>GoHighLevel (GHL)</b>: CRM, marketing automation, funnel & campaign creation
-- <b>Marketing & Analytics</b>: SEO, Google Analytics, Tag Manager, social media, conversion tracking
-- <b>Integrations</b>: APIs, plugins, troubleshooting & support
+**Expertise:**  
+- WordPress (Themes, Plugins, WooCommerce)
+- Hosting, Server Management, DNS, Email
+- GoHighLevel (GHL) CRM & Automation
+- SEO, Funnels, Lead Generation
+- Cloud Migration & Security
 
 ---
 
-## 🛠️ Tech Stack
+## ⭐ Services
+
+- ⚡ WordPress Website Architecture & Customization
+- 🔒 Security, Speed Optimization, Backup & Restore
+- 🌎 Domain, DNS, Email Configuration & Troubleshooting
+- 💼 E-commerce, Payment Integrations, Membership Sites
+- 📈 Digital Marketing, Automation, Funnels, SEO
+- 🛠️ GoHighLevel Setup, Integration, & Support
+- ☁️ Cloud Hosting, Migration, Consulting
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-EF5A28?style=flat-square" />
-  <img src="https://img.shields.io/badge/Plesk-52B6E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Email-34A853?style=flat-square&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoHighLevel-F7B500?style=flat-square" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <a href="https://www.upwork.com/freelancers/abdullaalmarufshahin" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Profile-6fda44?logo=upwork&style=for-the-badge" alt="Upwork" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdulla.al.maruf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdulla.al.maruf@gmail.com-4285F4?logo=gmail&style=for-the-badge" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdulla-al-maruf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abdulla--al--maruf-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 💡 Why Choose Me?
-
-- End-to-end web solutions — no need for multiple freelancers.
-- Fast, reliable, and friendly support.
-- Proven results for agencies, businesses, and entrepreneurs.
-- Always focused on your success and growth.
-
----
-
-## 📬 Connect With Me
+## 🛠️ My Tech Stack
 
 <p align="center">
-    <a href="mailto:abdulla@uptosolve.com">
-        <img src="https://img.shields.io/badge/Email-abdulla@uptosolve.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/abdulla-al-maruf-shahin/">
-        <img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Al%20Maruf%20Shahin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://vhkbd.com/maruf">
-        <img src="https://img.shields.io/badge/Portfolio-vhkbd.com/maruf-29A7DE?style=for-the-badge"/>
-    </a>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GHL-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20Hosting-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SEO-3AB54A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Marketing%20Automation-FF6F00?style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center"><em>Easy solutions for complex web problems. Let’s grow your online presence together!</em></p>
+<p align="center" style="font-size:1.2rem;">
+  <b>Ready to transform your online business?</b><br>
+  <a href="https://www.upwork.com/freelancers/abdullaalmarufshahin" target="_blank">
+    🚀 Hire me on Upwork for your next project! 🚀
+  </a>
+</p>
+
+---
+
+<!-- End of 2025 Modern README -->
