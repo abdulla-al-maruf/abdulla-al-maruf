@@ -2,7 +2,7 @@
 
 <p align="center" style="padding: 40px 0;">
   <a href="https://www.upwork.com/freelancers/abdullaalmarufshahin" target="_blank">
-    <img src="https://raw.githubusercontent.com/abdulla-al-maruf/abdulla-al-maruf/refs/heads/main/abdulla-upwork.png"
+    <img src="DDDDDDDDD"
          alt="Upwork Banner"
          width="600"
          style="border-radius: 32px; box-shadow: 0 4px 24px rgba(0,0,0,0.15); margin-bottom: 16px;" />
