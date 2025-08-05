@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulla Al Maruf Shahin
 
-<!--
-**abdulla-al-maruf/abdulla-al-maruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WordPress | Hosting | DNS | Email | GoHighLevel | Marketing Tech**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Skills & Services
+
+- **WordPress**
+  - Install, customize, fix issues
+  - Speed, security, backups
+
+- **Hosting & Server**
+  - cPanel, Plesk, VPS, cloud
+  - SSL, domains, migrations
+
+- **DNS**
+  - Domain setup, transfer
+  - Record management: A, CNAME, MX, TXT, SPF, DKIM
+
+- **Email**
+  - Business email setup (Gmail, Outlook, Zoho)
+  - Deliverability & spam protection
+
+- **GoHighLevel (GHL)**
+  - CRM setup & automation
+  - Funnels, campaigns, SMS & email
+
+- **Marketing**
+  - SEO, Google Analytics, Tag Manager
+  - Social media, conversion tracking
+
+- **Other Tech**
+  - Integrations (APIs, plugins)
+  - Troubleshooting & support
+
+---
+
+## 📬 Contact
+
+- **Email:** abdulla@uptosolve.com
+- **LinkedIn:** [linkedin.com/in/abdulla-al-maruf-shahin/](https://www.linkedin.com/in/abdulla-al-maruf-shahin/)
+- **Portfolio:** [vhkbd.com/maruf](https://vhkbd.com/maruf)
+
+---
+
+_Easy solutions for complex web problems._
