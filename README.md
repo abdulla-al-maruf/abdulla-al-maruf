@@ -53,6 +53,6 @@ Bangladesh. Those repos stay private.
 [Upwork](https://www.upwork.com/freelancers/abdullaalmarufshahin) ·
 [LinkedIn](https://www.linkedin.com/in/abdulla-al-maruf/) ·
 [vhkbd.com/maruf](https://vhkbd.com/maruf) ·
-abdulla.al.maruf@gmail.com
+abdulla@uptosolve.com
 
 Message me on Upwork — I usually reply within a day.
